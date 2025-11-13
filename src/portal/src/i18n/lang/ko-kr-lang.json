@@ -1220,7 +1220,7 @@
         "ADD_TAG": "태그 추가",
         "REMOVE_TAG": "태그 제거",
         "NAME_ALREADY_EXISTS": "저장소에 태그가 이미 존재합니다",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "잘못된 16진수 색상 코드 (예: #RRGGBB 또는 #RGB)"
     },
     "LABEL": {
         "LABEL": "라벨",
@@ -1237,7 +1237,7 @@
         "DELETION_SUMMARY_TARGET": "{{param}}를 삭제하시겠습니까?",
         "PLACEHOLDER": "라벨을 찾을 수 없습니다!",
         "NAME_ALREADY_EXISTS": "라벨 이름이 이미 존재합니다.",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "잘못된 16진수 색상 코드 (예: #RRGGBB 또는 #RGB)"
     },
     "QUOTA": {
         "PROJECT": "프로젝트",

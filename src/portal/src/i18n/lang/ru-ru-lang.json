@@ -1144,7 +1144,7 @@
         "ADD_TAG": "ДОБАВИТЬ ТЕГ",
         "REMOVE_TAG": "УДАЛИТЬ ТЕГ",
         "NAME_ALREADY_EXISTS": "Тег уже существует в репозитории",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Недопустимый шестнадцатеричный код цвета (например, #RRGGBB или #RGB)"
     },
     "LABEL": {
         "LABEL": "Метка",
@@ -1161,7 +1161,7 @@
         "DELETION_SUMMARY_TARGET": "Вы хотите удалить {{param}}?",
         "PLACEHOLDER": "Мы не смогли найти никаких меток!",
         "NAME_ALREADY_EXISTS": "Имя метки уже существует.",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Недопустимый шестнадцатеричный код цвета (например, #RRGGBB или #RGB)"
     },
     "QUOTA": {
         "PROJECT": "Проект",

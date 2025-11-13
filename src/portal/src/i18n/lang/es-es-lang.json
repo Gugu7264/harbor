@@ -1224,7 +1224,7 @@
         "ADD_TAG": "AGREGAR TAG",
         "REMOVE_TAG": "REMOVER TAG",
         "NAME_ALREADY_EXISTS": "Tag ya existe en el repositorio",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Código de color hexadecimal no válido (ej. #RRGGBB o #RGB)"
 
     },
     "LABEL": {
@@ -1242,7 +1242,7 @@
         "DELETION_SUMMARY_TARGET": "Quieres borrar {{param}}?",
         "PLACEHOLDER": "No pudimos encontrar ninguna etiqueta!",
         "NAME_ALREADY_EXISTS": "Nombre Etiqueta ya existe.",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Código de color hexadecimal no válido (ej. #RRGGBB o #RGB)"
     },
     "QUOTA": {
         "PROJECT": "Proyecto",

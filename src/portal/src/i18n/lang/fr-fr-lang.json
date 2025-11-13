@@ -1227,7 +1227,7 @@
         "ADD_TAG": "AJOUTER TAG",
         "REMOVE_TAG": "SUPPRIMER TAG",
         "NAME_ALREADY_EXISTS": "Ce tag existe déjà dans ce dépôt",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Code de couleur hexadécimal invalide (par ex. #RRGGBB ou #RGB)"
     },
     "LABEL": {
         "LABEL": "Label",
@@ -1244,7 +1244,7 @@
         "DELETION_SUMMARY_TARGET": "Voulez-vous supprimer {{param}} ?",
         "PLACEHOLDER": "Nous n'avons trouvé aucun label !",
         "NAME_ALREADY_EXISTS": "Ce nom de label existe déjà.",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Code de couleur hexadécimal invalide (par ex. #RRGGBB ou #RGB)"
     },
     "QUOTA": {
         "PROJECT": "Projet",

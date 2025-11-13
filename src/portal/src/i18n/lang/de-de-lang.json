@@ -1225,7 +1225,7 @@
         "ADD_TAG": "TAG HINZUFÜGEN",
         "REMOVE_TAG": "TAG ENTFERNEN",
         "NAME_ALREADY_EXISTS": "Tag existiert bereits im Repository",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Ungültiger Hex-Farbcode (z.B. #RRGGBB oder #RGB)"
     },
     "LABEL": {
         "LABEL": "Label",
@@ -1242,7 +1242,7 @@
         "DELETION_SUMMARY_TARGET": "Soll {{param}} gelöscht werden?",
         "PLACEHOLDER": "Keine Label gefunden!",
         "NAME_ALREADY_EXISTS": "Label existiert bereits.",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Ungültiger Hex-Farbcode (z.B. #RRGGBB oder #RGB)"
     },
     "QUOTA": {
         "PROJECT": "Projekt",

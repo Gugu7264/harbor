@@ -1226,7 +1226,7 @@
         "ADD_TAG": "ADD TAG",
         "REMOVE_TAG": "REMOVE TAG",
         "NAME_ALREADY_EXISTS": "Tag already exists under the repository",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Geçersiz onaltılık renk kodu (örn. #RRGGBB veya #RGB)"
     },
     "LABEL": {
         "LABEL": "Etiket",
@@ -1243,7 +1243,7 @@
         "DELETION_SUMMARY_TARGET": "Silmek istiyor musunuz {{param}}?",
         "PLACEHOLDER": "Etiket bulamadık!",
         "NAME_ALREADY_EXISTS": "Etiket adı zaten var.",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Geçersiz onaltılık renk kodu (örn. #RRGGBB veya #RGB)"
     },
     "QUOTA": {
         "PROJECT": "Proje",

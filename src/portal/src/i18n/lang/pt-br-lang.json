@@ -1219,7 +1219,7 @@
         "ADD_TAG": "ADICIONAR TAG",
         "REMOVE_TAG": "REMOVER TAG",
         "NAME_ALREADY_EXISTS": "Tag já existe no repositório",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Código de cor hexadecimal inválido (ex. #RRGGBB ou #RGB)"
     },
     "LABEL": {
         "LABEL": "Marcador",
@@ -1236,7 +1236,7 @@
         "DELETION_SUMMARY_TARGET": "Você deseja remover {{param}}?",
         "PLACEHOLDER": "Não foi possível encontrar nenhum marcador!",
         "NAME_ALREADY_EXISTS": "Marcador já existe.",
-        "INVALID_COLOR": "Invalid hex color code (e.g., #RRGGBB or #RGB)"
+        "INVALID_COLOR": "Código de cor hexadecimal inválido (ex. #RRGGBB ou #RGB)"
     },
     "QUOTA": {
         "PROJECT": "Projeto",
