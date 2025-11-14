@@ -3,11 +3,13 @@
     align-items: center;
     cursor: inherit;
     white-space: nowrap;
+    max-width: 100%;
 }
 
 .label clr-icon {
     margin-right: 3px;
     margin-top: 3px;
+    flex-shrink: 0;
 }
 
 .label-name {
