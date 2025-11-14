@@ -1,4 +1,4 @@
-<clr-tooltip>
+<clr-tooltip class="label-tooltip">
     <label
         clrTooltipTrigger
         class="label"
@@ -7,9 +7,9 @@
             'background-color': labelColor?.color,
             color: labelColor?.textColor,
             border:
-                labelColor?.color === '#FFFFFF' ? '1px solid #A1A1A1' : 'none'
-        }"
-        [style.max-width.px]="labelWidth">
+                labelColor?.color === '#FFFFFF' ? '1px solid #A1A1A1' : 'none',
+            'max-width': labelWidth ? labelWidth + 'px' : null
+        }">
         <span>
             <clr-icon
                 *ngIf="hasIcon && label.scope === 'p'"

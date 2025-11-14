@@ -239,3 +239,13 @@
   overflow-y: auto;
   margin-bottom: -10px;
 }
+
+.labels-cell {
+  flex-wrap: wrap;
+  gap: 4px;
+  align-items: flex-start;
+  
+  hbr-label-piece {
+    max-width: 100%;
+  }
+}

@@ -522,40 +522,12 @@
                     </div>
                 </clr-dg-cell>
                 <clr-dg-cell>
-                    <div class="cell">
+                    <div class="cell labels-cell">
                         <hbr-label-piece
-                            *ngIf="artifact.labels?.length"
-                            [label]="artifact.labels[0]"
-                            [labelWidth]="90"
+                            *ngFor="let label of artifact.labels"
+                            [label]="label"
                             [withTooltip]="true">
                         </hbr-label-piece>
-                        <div
-                            class="signpost-item"
-                            [hidden]="artifact.labels?.length <= 1">
-                            <clr-signpost>
-                                <button class="btn btn-link" clrSignpostTrigger>
-                                    ...
-                                </button>
-                                <clr-signpost-content
-                                    [clrPosition]="'top-middle'"
-                                    *clrIfOpen>
-                                    <div
-                                        class="clr-signpost-content-label-list">
-                                        <div
-                                            *ngFor="
-                                                let label of artifact.labels
-                                            "
-                                            class="margin-5px">
-                                            <hbr-label-piece
-                                                [labelWidth]="130"
-                                                [label]="label"
-                                                [withTooltip]="true">
-                                            </hbr-label-piece>
-                                        </div>
-                                    </div>
-                                </clr-signpost-content>
-                            </clr-signpost>
-                        </div>
                     </div>
                 </clr-dg-cell>
                 <clr-dg-cell>
